@@ -4,7 +4,7 @@ import omelette from './assets/images/image-omelette.jpeg';
 
 export function App() {
 	return (
-		<div class="flex justify-center md:items-center min-h-screen">
+		<div class="flex justify-center md:my-12 md:items-center min-h-screen">
 			<div class="flex flex-col w-full md:w-64 md:rounded-xl md:p-4 md:w-108 bg-white">
 				<img class="rounded mb-8" src={omelette} alt="Picture of omelette with spinach and seasoning" />
 				<div class="mx-8 mb-4 md:mx-2 md:mb-6">

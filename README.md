@@ -12,8 +12,8 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/react-and-tailwind-recipe-page-MSEUAVgsFW)
+- [Live Site URL](https://philipjprice.github.io/Frontend-Mentor-Recipe-Page/)
 
 ## My Process
 
