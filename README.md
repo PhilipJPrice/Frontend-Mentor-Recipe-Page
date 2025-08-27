@@ -1,4 +1,5 @@
 # Frontend-Mentor-Recipe-Page
+<img width="504" height="722" alt="recipe-page" src="https://github.com/user-attachments/assets/bdd703de-d1b8-4db2-8355-51f71bc954a9" />
 
 ## Overview
 
