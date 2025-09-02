@@ -4,19 +4,19 @@ import omelette from './assets/images/image-omelette.jpeg';
 
 export function App() {
 	return (
-		<div class="flex justify-center md:my-24 md:items-center min-h-screen">
-			<div class="flex flex-col w-full md:w-132 md:rounded-xl md:p-4 bg-white">
-				<img class="rounded mb-8" src={omelette} alt="Picture of omelette with spinach and seasoning" />
-				<div class="mx-8 mb-4 md:mx-2 md:mb-6">
-					<h1 class="text-left young-serif mb-4 text-4xl text-stone-900 md:text-xl">Simple Omelette Recipe</h1>
-					<p class="text-left outfit font-light m-auto text-stone-600 md:text-sm">An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.</p>
+		<div className="flex justify-center md:my-24 md:items-center min-h-screen">
+			<div className="flex flex-col w-full md:w-132 md:rounded-xl md:p-4 bg-white">
+				<img className="rounded mb-8" src={omelette} alt="Picture of omelette with spinach and seasoning" />
+				<div className="mx-8 mb-4 md:mx-2 md:mb-6">
+					<h1 className="text-left young-serif mb-4 text-4xl text-stone-900 md:text-xl">Simple Omelette Recipe</h1>
+					<p className="text-left outfit font-light m-auto text-stone-600 md:text-sm">An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.</p>
 				</div>
-				<div class="bg-rose-50 mx-8 mb-4 py-4 pl-8 rounded-xl md:mx-2">
-					<h3 class="outfit text-rose-800 mb-4 text-lg md:text-sm">Preparation time</h3>
-					<ul class="outfit list-disc marker:text-rose-800 text-stone-600 px-4 md:text-sm">
-						<li class="px-4 mb-2"><b>Total:</b> Approximately 10 minutes</li>
-						<li class="px-4 mb-2"><b>Preparation:</b> 5 minutes</li>
-						<li class="px-4 mb-2"><b>Cooking:</b> 5 minutes</li>
+				<div className="bg-rose-50 mx-8 mb-4 py-4 pl-8 rounded-xl md:mx-2">
+					<h3 className="outfit text-rose-800 mb-4 text-lg md:text-sm">Preparation time</h3>
+					<ul className="outfit list-disc marker:text-rose-800 text-stone-600 px-4 md:text-sm">
+						<li className="px-4 mb-2"><b>Total:</b> Approximately 10 minutes</li>
+						<li className="px-4 mb-2"><b>Preparation:</b> 5 minutes</li>
+						<li className="px-4 mb-2"><b>Cooking:</b> 5 minutes</li>
 					</ul>
 				</div>
 				<div class="mx-8 mb-4 md:mx-2">
